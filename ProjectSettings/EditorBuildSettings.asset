@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/StartGame.unity
+    guid: e1fbb01e59cf44b4dacbc49ef8e34e01
+  - enabled: 0
+    path: Assets/Scenes/bouncelvl1.unity
+    guid: 4fad1db242ef07a44ae4ca29becaf27f
+  - enabled: 0
+    path: Assets/Scenes/bouncelvl2.unity
+    guid: f520c556b3dffcf4d90a931b2d08101d
+  - enabled: 0
+    path: Assets/Scenes/EndCredit.unity
+    guid: 026110c45a505104fbc953f85c730bd0
+  - enabled: 0
+    path: Assets/Oculus/VR/Scenes/GearVrControllerTest.unity
+    guid: d56af3aeb2176e7459f753c1c2e2dd97
+  m_configObjects: {}
